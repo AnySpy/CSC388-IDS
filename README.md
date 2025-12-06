@@ -12,3 +12,6 @@ An IDS developed for my secure computing class at Missouri State University
 * I learned how to use cProfile to do profiling (not included in this repo, but it's super simple)
 * I re-discovered that, when multithreading, there's an "optimal" core count and I shouldn't just default to "what feels good"
 * Error handling is important! Even if it's just giving feedback on issues and closing the program.
+
+# Notes
+A lot of my comments on discovery/thought process are in this file. Hope any viewers have fun looking at it, I had a good time developing it :)
