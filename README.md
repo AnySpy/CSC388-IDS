@@ -1,5 +1,5 @@
 # CSC388-IDS
-An IDS developed for my secure computing class
+An IDS developed for my secure computing class at Missouri State University
 
 # Ideas
 1. We create a list of dictionaries (sigdict) that parses files stored in ./signatures.txt
